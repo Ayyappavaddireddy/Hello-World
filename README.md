@@ -1,4 +1,13 @@
-# Hello-World
-This is my first repository in GitHub
+# HTML simple code
+## my first webpage
 
-*20A81A1458*
+<HTML>
+   <head>
+      <title>my first webpage</title>
+   </head>
+  <body>
+</br>
+     <p>Hi Friends..</p>
+     <p>This is my first page..</br> I my very interested to learn Html code</p>
+  <body>
+</HTML>
